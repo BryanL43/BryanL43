@@ -51,7 +51,6 @@ I'm a passionate developer who has been exploring the vast possibilities of the 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/BryanL43/BitsBazaar"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=BitsBazaar&theme=omni&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="BitsBazaar"></a>
   </p>
