@@ -10,6 +10,7 @@ I'm a passionate developer who has been exploring the vast possibilities of the 
 - 🌱 I’m currently learning **device drivers** 🛠️
 - 📫 How to reach me: **bryanlee56098@gmail.com**
 - ⚡ Fun fact: I ❤️ exploring the world! 🌎✈️
+- 🎓 Fun fact: I studied abroad in Japan for a semester! ⛩️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://discordapp.com/users/384865971455918084" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bryan.__" height="30" width="40" /></a></p>
@@ -34,3 +35,26 @@ I'm a passionate developer who has been exploring the vast possibilities of the 
 <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354321/selenium.svg" />
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br/>
+
+#
+
+### 📊 Stats
+<div>
+  <img style="width:466px; height:193px;" src="https://github-readme-stats.vercel.app/api?username=BryanL43&show_icons=true&theme=omni" alt="BryanL43"/>
+  <img style="width:466px; height:193px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanL43&show_icons=true&theme=omni&layout=compact" alt="BryanL43" />
+</div>
+
+---
+
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/BryanL43/BitsBazaar"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=BitsBazaar&theme=omni&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="BitsBazaar"></a>
+  </p>
+
+  <a href="https://github.com/BryanL43?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
