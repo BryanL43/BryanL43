@@ -15,7 +15,7 @@ I'm a passionate developer who has been exploring the vast possibilities of the 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://discordapp.com/users/384865971455918084" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bryan.__" height="30" width="40" /></a></p>
 
----
+#
 
 ### 🧰 Languages and Tools
 
@@ -39,16 +39,8 @@ I'm a passionate developer who has been exploring the vast possibilities of the 
 
 #
 
-### 📊 Stats
-<div style="display:flex;">
-  <img style="flex:1; height:193px;" src="https://github-readme-stats.vercel.app/api?username=BryanL43&show_icons=true&theme=omni" alt="BryanL43"/>
-  <img style="flex:1; height:193px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanL43&show_icons=true&theme=omni&layout=compact" alt="BryanL43" />
-</div>
-
----
-
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 Projects of interest</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
@@ -57,3 +49,17 @@ I'm a passionate developer who has been exploring the vast possibilities of the 
 
   <a href="https://github.com/BryanL43?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+
+#
+
+### 📊 Stats
+<div style="display:flex;">
+  <img style="flex:1; height:193px;" src="https://github-readme-stats.vercel.app/api?username=BryanL43&show_icons=true&theme=omni" alt="BryanL43"/>
+  <img style="flex:1; height:193px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanL43&show_icons=true&theme=omni&layout=compact" alt="BryanL43" />
+</div>
+<img alt="BryanL43's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BryanL43&bg_color=191622&color=FF79C6&line=F8D866&point=FFFFFF&hide_border=true" />
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
