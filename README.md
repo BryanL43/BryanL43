@@ -40,9 +40,9 @@ I'm a passionate developer who has been exploring the vast possibilities of the 
 #
 
 ### 📊 Stats
-<div style="display: flex;">
-  <img style="width:466px; height:193px; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=BryanL43&show_icons=true&theme=omni" alt="BryanL43"/>
-  <img style="width:466px; height:193px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanL43&show_icons=true&theme=omni&layout=compact" alt="BryanL43" />
+<div style="display:flex;">
+  <img style="flex:1; height:193px;" src="https://github-readme-stats.vercel.app/api?username=BryanL43&show_icons=true&theme=omni" alt="BryanL43"/>
+  <img style="flex:1; height:193px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanL43&show_icons=true&theme=omni&layout=compact" alt="BryanL43" />
 </div>
 
 ---
