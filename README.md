@@ -59,7 +59,12 @@ I'm a passionate developer who has been exploring the vast possibilities of the 
 </div>
 <img alt="BryanL43's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BryanL43&bg_color=191622&color=FF79C6&line=F8D866&point=FFFFFF&hide_border=true" />
 
+### :zap: Recent Activity
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
+
+
+
+
 
 <!--END_SECTION:activity-->
