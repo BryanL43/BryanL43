@@ -80,6 +80,7 @@ I'm a passionate developer who has been exploring the vast possibilities of the 
   <img style="flex:1; height:193px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanL43&theme=omni&layout=compact" alt="BryanL43" />
 </div>
 <img alt="BryanL43's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=BryanL43&bg_color=191622&color=FF79C6&line=F8D866&point=FFFFFF&hide_border=true" />
+Note: Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
 
 ### :zap: Recent Activity
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
