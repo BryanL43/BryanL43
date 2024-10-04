@@ -1,5 +1,4 @@
 <h1 align="center">🌸 Bryan Lee 🌿</h1>
-<h3 align="left">🐊 Computer Science Undergraduate at SFSU</h3>
 
 **`📚 Student specializing in the art of gaslighting rocks into thinking.`**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BryanL43&label=Profile%20views&color=bf77f6&style=flat" alt="BryanL43" /> </p>
