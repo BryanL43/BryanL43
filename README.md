@@ -86,9 +86,9 @@ Note: Top languages are only a metric of the languages my public code consists o
 ### :zap: Recent Activity
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/BryanL43/MergeExtractor/pull/6) in [BryanL43/MergeExtractor](https://github.com/BryanL43/MergeExtractor)
-2. 💪 Opened PR [#6](https://github.com/BryanL43/MergeExtractor/pull/6) in [BryanL43/MergeExtractor](https://github.com/BryanL43/MergeExtractor)
-3. 🎉 Merged PR [#5](https://github.com/BryanL43/MergeExtractor/pull/5) in [BryanL43/MergeExtractor](https://github.com/BryanL43/MergeExtractor)
-4. 💪 Opened PR [#5](https://github.com/BryanL43/MergeExtractor/pull/5) in [BryanL43/MergeExtractor](https://github.com/BryanL43/MergeExtractor)
-5. 🎉 Merged PR [#4](https://github.com/BryanL43/MergeExtractor/pull/4) in [BryanL43/MergeExtractor](https://github.com/BryanL43/MergeExtractor)
+1. 🎉 Merged PR [#1](https://github.com/BryanL43/BrainTumorClassification/pull/1) in [BryanL43/BrainTumorClassification](https://github.com/BryanL43/BrainTumorClassification)
+2. 💪 Opened PR [#1](https://github.com/BryanL43/BrainTumorClassification/pull/1) in [BryanL43/BrainTumorClassification](https://github.com/BryanL43/BrainTumorClassification)
+3. 🎉 Merged PR [#6](https://github.com/BryanL43/MergeExtractor/pull/6) in [BryanL43/MergeExtractor](https://github.com/BryanL43/MergeExtractor)
+4. 💪 Opened PR [#6](https://github.com/BryanL43/MergeExtractor/pull/6) in [BryanL43/MergeExtractor](https://github.com/BryanL43/MergeExtractor)
+5. 🎉 Merged PR [#5](https://github.com/BryanL43/MergeExtractor/pull/5) in [BryanL43/MergeExtractor](https://github.com/BryanL43/MergeExtractor)
 <!--END_SECTION:activity-->
