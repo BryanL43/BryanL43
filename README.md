@@ -48,33 +48,33 @@
 <p align="center">
   <!-- First row -->
   <a href="https://github.com/BryanL43/MergeExtractor">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=MergeExtractor&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Merge Extractor" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=MergeExtractor&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Merge Extractor" width="278" />
   </a>
   <a href="https://github.com/BryanL43/BrainTumorClassification">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=BrainTumorClassification&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Brain Tumor Classification" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=BrainTumorClassification&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Brain Tumor Classification" width="278" />
   </a>
   <a href="https://github.com/BryanL43/VencordLargeUpload">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=VencordLargeUpload&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Vencord Large Upload" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=VencordLargeUpload&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Vencord Large Upload" width="278" />
   </a>
   <!-- Second row -->
   <a href="https://github.com/BryanL43/CateringInventory">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=CateringInventory&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Catering Inventory" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=CateringInventory&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Catering Inventory" width="278" />
   </a>
   <a href="https://github.com/BryanL43/StudyGator">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=StudyGator&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Study Gator" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=StudyGator&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Study Gator" width="278" />
   </a>
   <a href="https://github.com/BryanL43/FileSystem">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=FileSystem&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="File System" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=FileSystem&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="File System" width="278" />
   </a>
   <!-- Third row -->
   <a href="https://github.com/BryanL43/Waymore">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=Waymore&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Waymore" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=Waymore&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Waymore" width="278" />
   </a>
   <a href="https://github.com/BryanL43/ESP32RelayAPI">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=ESP32RelayAPI&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="ESP32 Relay API" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=ESP32RelayAPI&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="ESP32 Relay API" width="278" />
   </a>
   <a href="https://github.com/BryanL43/Vigenere_Driver">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=Vigenere_Driver&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Vigenere Driver" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BryanL43&repo=Vigenere_Driver&theme=react&bg_color=191622&title_color=FF79C6&hide_border=true&icon_color=F8D866&show_icons=false" alt="Vigenere Driver" width="278" />
   </a>
 </p>
 
