@@ -1,7 +1,6 @@
 <h1 align="center">Welcome! I'm Bryan!</h1>
 
 **`🪨 Specializing in the art of gaslighting rocks into thinking.`**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BryanL43&label=Profile%20views&color=bf77f6&style=flat" alt="BryanL43" /> </p>
 
 🛠️ Just someone who loves hacking away at ideas — who knows what I'll dive into next? From code experiments to quirky projects, I tend to land in the middle of all kinds of predicaments... and that's where the fun is at.
 
@@ -99,6 +98,11 @@
   </tr>
 </table>
 <strong>⚠️ Note:</strong> The top languages listed are only a metric of the languages my public code consists of and don't reflect my experience or skill level.
+
+<h2 align="left">👀 Profile Views</h2>
+<div align="center">
+  <img src="https://moe-counter.glitch.me/get/@BryanL43?theme=booru-r6gdrawfriends" />
+</div>
 
 <h2 align="left">:zap: Recent Activity</h2>
 
