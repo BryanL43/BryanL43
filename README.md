@@ -39,7 +39,10 @@
 </p>
 
 <h2 align="left">📜 Certificates</h2>
-<p align="left"><a href="https://api.badgr.io/public/assertions/f-7MdxBeRv-cNX29dmrIPQ?identity__email=bryanlee56098%40gmail.com" target="blank"><img align="center" alt="Postman" width="40px" height="40px" src="https://media.badgr.com/uploads/badges/assertion-f-7MdxBeRv-cNX29dmrIPQ.png?versionId=DMeXzDq2i0Eu1dPOL2zh01aQ_rD8yOO3" /></a></p>
+<p align="left">
+<a href="https://api.badgr.io/public/assertions/f-7MdxBeRv-cNX29dmrIPQ?identity__email=bryanlee56098%40gmail.com" target="blank"><img align="center" alt="Postman" width="40px" height="40px" src="https://media.badgr.com/uploads/badges/assertion-f-7MdxBeRv-cNX29dmrIPQ.png?versionId=DMeXzDq2i0Eu1dPOL2zh01aQ_rD8yOO3" /></a>
+<a href="https://github.com/BryanL43/forage-midas/blob/flow/JPMC_Advanced_SWE_Certificate.pdf" target="blank"><img align="center" alt="Forage" width="40px" height="40px" src="https://cdn.sbspathways.umass.edu/wp-content/uploads/sites/105/2023/07/Forage-cropped-navy-gem.png" /></a>
+</p>
 
 <h2 align="left">📘 Projects of Interest</h2>
 
