@@ -111,7 +111,7 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/BryanL43/MergeExtractor/pull/7) in [BryanL43/MergeExtractor](https://github.com/BryanL43/MergeExtractor)
+1. 💪 Opened PR [#2](undefined) in [BryanL43/SWStackTemplate](https://github.com/BryanL43/SWStackTemplate)
 2. 💪 Opened PR [#7](https://github.com/BryanL43/MergeExtractor/pull/7) in [BryanL43/MergeExtractor](https://github.com/BryanL43/MergeExtractor)
 3. ❌ Closed PR [#4](https://github.com/Mousefan6/PortfolioWebsite/pull/4) in [Mousefan6/PortfolioWebsite](https://github.com/Mousefan6/PortfolioWebsite)
 4. 💪 Opened PR [#4](https://github.com/Mousefan6/PortfolioWebsite/pull/4) in [Mousefan6/PortfolioWebsite](https://github.com/Mousefan6/PortfolioWebsite)
