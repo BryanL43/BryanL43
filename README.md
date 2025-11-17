@@ -111,8 +111,8 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [BryanL43/SWStackTemplate](https://github.com/BryanL43/SWStackTemplate)
-2. 💪 Opened PR [#7](https://github.com/BryanL43/MergeExtractor/pull/7) in [BryanL43/MergeExtractor](https://github.com/BryanL43/MergeExtractor)
+1. 💪 Opened PR [#2](undefined) in [BryanL43/VencordLargeUpload](https://github.com/BryanL43/VencordLargeUpload)
+2. 💪 Opened PR [#2](undefined) in [BryanL43/SWStackTemplate](https://github.com/BryanL43/SWStackTemplate)
 3. ❌ Closed PR [#4](https://github.com/Mousefan6/PortfolioWebsite/pull/4) in [Mousefan6/PortfolioWebsite](https://github.com/Mousefan6/PortfolioWebsite)
 4. 💪 Opened PR [#4](https://github.com/Mousefan6/PortfolioWebsite/pull/4) in [Mousefan6/PortfolioWebsite](https://github.com/Mousefan6/PortfolioWebsite)
 5. 🎉 Merged PR [#1](https://github.com/BryanL43/BrainTumorClassification/pull/1) in [BryanL43/BrainTumorClassification](https://github.com/BryanL43/BrainTumorClassification)
