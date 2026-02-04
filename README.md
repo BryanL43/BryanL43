@@ -111,7 +111,7 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [BryanL43/VencordLargeUpload](https://github.com/BryanL43/VencordLargeUpload)
+1. 🚀 Published release [PostgreSQL Binaries](https://github.com/BryanL43/ffg-inventory-manager-assets/releases/tag/setup) in [BryanL43/ffg-inventory-manager-assets](https://github.com/BryanL43/ffg-inventory-manager-assets)
 2. ❌ Merged PR [#2](undefined) in [BryanL43/SWStackTemplate](https://github.com/BryanL43/SWStackTemplate)
 3. 💪 Opened PR [#2](undefined) in [BryanL43/SWStackTemplate](https://github.com/BryanL43/SWStackTemplate)
 4. 💪 Opened PR [#4](https://github.com/Mousefan6/PortfolioWebsite/pull/4) in [Mousefan6/PortfolioWebsite](https://github.com/Mousefan6/PortfolioWebsite)
