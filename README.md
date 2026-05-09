@@ -137,10 +137,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=BryanL43&show_icons=true&theme=omni&hide_border=true&hide_title=true&card_width=400" width="120%" />
+      <img src="https://github-stats-extended.vercel.app/api?username=BryanL43&show_icons=true&theme=omni&hide_border=true&hide_title=true&card_width=400" width="120%" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanL43&layout=compact&theme=omni&hide_border=true&card_width=400" width="120%" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=BryanL43&layout=compact&theme=omni&hide_border=true&card_width=400" width="120%" />
     </td>
   </tr>
   <tr>
