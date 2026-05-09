@@ -7,91 +7,91 @@
 <h2 align="left">🧰 Languages and Tools</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" height="40" alt="Embedded C" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" height="40" alt="VMware" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" alt="Bash" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="40" alt="PowerShell" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="HTML5" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="CSS3" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-DarkSymbol.svg" height="40" alt="Prisma" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://www.svgrepo.com/show/354321/selenium.svg" height="40" alt="Selenium" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" height="40" alt="Lua" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
-  <img width="10" />
+  <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="40" alt="R" />
 </p>
@@ -140,10 +140,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=BryanL43&show_icons=true&theme=omni&hide_border=true&hide_title=true&card_width=400" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=BryanL43&show_icons=true&theme=omni&hide_border=true&hide_title=true&card_width=400" width="120%" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanL43&layout=compact&theme=omni&hide_border=true&card_width=400" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanL43&layout=compact&theme=omni&hide_border=true&card_width=400" width="120%" />
     </td>
   </tr>
   <tr>
